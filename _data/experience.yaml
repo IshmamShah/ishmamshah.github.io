@@ -17,7 +17,7 @@ experiences:
 
 - place: "Special Mention- Top 10 Quantum Winter Hackathon"
   time: "December 2020"
-  title: "HHL and VQLS algorithm to solve the one dimension advection equation"
+  title: "Implemented LU factorization, HHL and VQLS algorithm to solve the one dimensional advection equation"
   #subtitle: "Search Business Department"
   #dsc: "Combined with the Taobao user’s search query history and purchase history, recommend query for users."
   
