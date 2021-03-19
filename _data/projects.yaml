@@ -1,15 +1,11 @@
 projects:
 
-  - title: "Nurse Scheduling Problem using Discrete Quadratic Model"
-    subtitle: "We performed DQM (Discrete Quadratic Model) implementation of Nurse Scheduling Problem using DWave's adiabatic quantum computing hybrid solvers. The objective of the NSP (Nurse Scheduling problem) is to find the optimal way of assigning shifts and rests to nurses to ensure maximum productivity and satisfaction."
+  - #title: "Nurse Scheduling Problem using Discrete Quadratic Model"
+    #subtitle: "We performed DQM (Discrete Quadratic Model) implementation of Nurse Scheduling Problem using DWave's adiabatic quantum computing hybrid solvers. The objective of the NSP (Nurse Scheduling problem) is to find the optimal way of assigning shifts and rests to nurses to ensure maximum productivity and satisfaction."
     #thumbnail: "assets/projects/2018_FDL/171.gif"
-    url: "https://github.com/IshmamShah/2021_QuACK"
-    selected: y
+    #url: "https://github.com/IshmamShah/2021_QuACK"
+    #selected: y
     
- - title: "Finding the lowest eigenvalue of a matrix using Variational Quantum Eigensolver"
-   #subtitle: "."
-   #thumbnail: "assets/projects/2018_FDL/171.gif"
-   url: "https://github.com/IshmamShah/VQEminEigenValue/blob/master/QSOF%20TASK%204(Screening%20Assigenment).ipynb"
-   selected: y
+
     
     
