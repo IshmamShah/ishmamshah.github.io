@@ -6,3 +6,10 @@ projects:
     url: "https://github.com/IshmamShah/2021_QuACK"
     selected: y
     
+ - title: "Finding the lowest eigenvalue of a matrix using Variational Quantum Eigensolver"
+    #subtitle: "."
+    #thumbnail: "assets/projects/2018_FDL/171.gif"
+    url: "https://github.com/IshmamShah/VQEminEigenValue/blob/master/QSOF%20TASK%204(Screening%20Assigenment).ipynb"
+    selected: y
+    
+    
