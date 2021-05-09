@@ -1,5 +1,9 @@
 experiences:
 
+- place: "QChack2021"
+  time: "April 2021"
+  title: "Diagonal Circuit Decomposer"
+
 - place: "IBM Quantum Challenge -FALL 2020- Advanced Badge"
   time: "Fall 2020"
   title: "qunatum circuits, qRAM, Grovers Algorithm"
