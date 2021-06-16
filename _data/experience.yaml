@@ -3,6 +3,12 @@ experiences:
 - place: "Top 20 Qiskit Hackathon Europe: Research Study Group "
   time: "June 2021"
   title: "Glassy Dynamics using Quantum Computing"
+  
+
+- place: "IBM Quantum Challenge 2021 Advanced Badge"
+  time: "May 2021"
+  title: "Decompose quantum circuits into basis gates of IBM Quantum systems & factoring using Shor's algorithm using Qiskit. implement a quantum error correction code, and study transmon qubits on a real quantum system using Qiskit Pulse. construct an efficient VQE algorithm to estimate the ground state energy of molecules using Qiskit Nature package"
+  
 
 
 
