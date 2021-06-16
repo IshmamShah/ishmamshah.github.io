@@ -1,5 +1,11 @@
 experiences:
 
+- place: "Top 20 Qiskit Hackathon Europe: Research Study Group "
+  time: "June 2021"
+  title: "Glassy Dynamics using Quantum Computing"
+
+
+
 - place: "QCHack 2021"
   time: "April 2021"
   title: "Diagonal Circuit Decomposer"
