@@ -33,6 +33,7 @@
   <!-- JQuery
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src={{ "/libs/external/jquery-3.1.1.min.js" | prepend: site.baseurl }}></script>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 
   <!-- Font-Awesome
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -63,9 +64,15 @@
 
 </head>
 <body>
+  <script>
+    particlesJS.load('particles-js', 'particles.json', function() {
+       console.log('callback - particles.js config loaded');
+    });
+  </script>
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div id="particles-js"></div>
   <div class="container">
 
     <section class="header">
