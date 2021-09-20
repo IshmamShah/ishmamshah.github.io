@@ -1,5 +1,22 @@
 experiences:
 
+
+- place: "IBM Quantum Challenge Africa 2021"
+  time: "September 2021"
+  title: "Solved all lab exercises"
+  
+- place: "IBM Quantum Challenge Africa 2021"
+  time: "September 2021"
+  title: "Solved all lab exercises"
+  
+- place: "Qurzon: A Prototype for a Divide and Conquer Based Quantum
+        Compiler for Distributed Quantum Systems "
+
+  time: "2021"
+  title: "Solved all lab exercises"
+
+
+
 - place: "Top 20 Qiskit Hackathon Europe: Research Study Group "
   time: "May-June 2021"
   title: "Glassy Dynamics using Quantum Computing: Disordered Phase in Ising and Metastability in Cellular Potts Models Hint at Glassy Dynamics"
