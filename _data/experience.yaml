@@ -5,15 +5,19 @@ experiences:
   time: "September 2021"
   title: "Solved all lab exercises"
   
-- place: "IBM Quantum Challenge Africa 2021"
+- place: "Subspace Search Variational Quantum Eigen solver- Pennylane Community Demo"
   time: "September 2021"
-  title: "Solved all lab exercises"
+  title: "https://pennylane.ai/qml/demos_community.html"
+  
+  
+- place: "2021 Qiskit Global Summer School on Quantum Machine Learning"
+  time: "August 2021"
+  title: "Certificate of Quantum Excelllence"
   
 - place: "Qurzon: A Prototype for a Divide and Conquer Based Quantum
         Compiler for Distributed Quantum Systems "
   time: "2021"
   title: "Proposed Quantum Compiler Prototype"
-
 
 
 - place: "Top 20 Qiskit Hackathon Europe: Research Study Group "
