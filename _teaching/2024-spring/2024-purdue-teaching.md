@@ -1,5 +1,5 @@
 ---
-title: "CHM 111/112 Labs(Fall, Spring, Summer"
+title: "CHM 111/112 Labs(Fall, Spring, Summer)"
 collection: teaching
 type: "Labs"
 permalink:
