@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 ## About
 
 Hi! I am Ishmam. I am a second-year PhD student at NCSU Chemistry, previously Purdue Chemistry advised by [Sabre Kais](https://ece.ncsu.edu/people/skais/). 
