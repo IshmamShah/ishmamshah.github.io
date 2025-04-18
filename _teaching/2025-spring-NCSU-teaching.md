@@ -1,5 +1,5 @@
 ---
-title: "CHM 102 Labs"
+title: "CH 102 Labs"
 collection: teaching
 type: "Undergraduate course"
 permalink:
