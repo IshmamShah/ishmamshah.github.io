@@ -1,5 +1,5 @@
 ---
-title: "CH 102 Spring Labs"
+title: "CH 102 Spring Labs TA"
 collection: teaching
 type: "Undergraduate course"
 permalink:
